@@ -1,80 +1,108 @@
 # Cody Kochmann
 
 |||
-|---|---|
+|:--:|--|
 |Phone | 480-269-0609 |
 |Email | kochmanncody@gmail.com |
 |GitHub | https://github.com/CodyKochmann |
 |LinkedIn | https://www.linkedin.com/pub/cody-kochmann/57/268/6b1 |
 |Twitter | @CKochmann |
 
-## Description
+## Short Summary
 
-Open source software engineer and researcher with a primary focus in artificial intelligence and machine learning.
+I am a self taught cloud architect, programming polyglot and security developer.
 
-## Background
+## Top skills
 
-- <b>Software Engineering</b>: Developing software for the open source community in attempt to demonstrate how to build well designed and long lasting code as well as building microservices to solve various engineering issues.
-- <b>Database Management</b>: I work with a multitude of databases on a daily basis both NoSQL and SQL based in order to maintain services and provide more secure and locked down designs.
-- <b>Networking</b>: building clustered systems connected over handmade DNS, OpenVPN and SSH systems.
-- <b>System Administration</b>: primarily building self-contained systems and automated cluster nodes for various web services hosted by myself.
-- <b>Security</b>: Auditing/Refactoring old code to make it more secure and building automated penetration testing tools.
-
-## Skills
-
-- <b>Programming Languages</b>: Python, Rust, Shell/Bash, Swift, R, Mathematica, Java, C, C++, PHP, SQL, Go, Regex, Ruby, Rails, Lisp, Cython, LiveScript, CoffeeScript, JavaScript, AJAX, jQuery, Angular, Node.js, Objective-C, HTML5, CSS3, HDL, Arduino
-
-
-- <b>Databases</b>: SQLite, PostgreSQL, CouchDB, MySQL, MongoDB
-
-- <b>Servers</b>: nginx, flask, CherryPy, Django, apache, OpenVPN, OpenSSH, isc-dhcp-server
-
-- <b>Operating Systems</b>: Debian, Ubuntu, CentOS, Mac, Raspbian, Kali, Arch, Windows
-
-- <b>Engineering/Software Methodologies</b>: Agile Development, REST Development, Self-Contained Systems, Sand-boxing, Clustering, Load Balancing, Differential Privacy, ACID Compliance
-
-- <b>Software Platforms/Tools</b>: Git, GitHub, PyCharm, Sublime Text, Vim, Eclipse, Swift Playgrounds, Linter pip, npm, brew
+- I read manuals..
+- I am very good at saving companies a lot of money.
+- I can comfortably code in a wide variety of languages.
+- I can sysadmin just about any OS running on a linux kernel.
 
 ## Experience
 
-#### Contract App Developer/Software Engineer
+### DDOS Mitigation
 
-self employed :: August 2012 - Present
+Designed and built the fastest free DDOS mitigation solution my company could find. This solution was able to block 720,000 new malicious hosts per minute across our entire distributed network.
 
-- Developed private mobile applications for multiple companies.
-- Introduced better security practices into their systems.
-- Re-implement scalable solutions to initial builds with OOP minded approaches.
+|||
+|:--:|--|
+| Technologies | BerkleyDB, SQLite, BGP, Quagga, RabbitMQ, Linux Kernel |
+| OS | CentOS |
+| Languages | Python, JavaScript, Perl, PHP |
+| Roles | support then project lead, software architect |
 
-#### Back-End Software Engineer
+### Log Aggregation
 
-Angel Publishing :: January 2016 - April 2016
+Saved the company millions in log aggregation costs by architecting a distributed ELK cluster designed to ingest and analyze host/network/app logs across our hybrid cloud/on-prem network.
 
-- Refactoring outdated PHP code with updated and more secure OOP based code.
-- Building tracking methods to collect analytics to get better user insight.
-- Finding optimizations in their system to use less resources.
-- Periodic front-end tuning for a snappier interface.
+|||
+|:--:|--|
+| Technologies | ElasticSearch, Logstash, Kibana, syslog/rsyslog/syslog-ng, Kafka, TensorFlow, Docker, Kubernetes, OpenShift, Linux Kernel, AWS, Digital Ocean, VMWare ESXI |
+| OS | CoreOS, Kali Linux, Alpine, FreeBSD, CentOS |
+| Languages | Golang, Python, Rust |
+| Roles | project lead, AWS architect, software architect |
 
-#### Open Source Development
+### Container Security Analysis
 
-github.com/CodyKochmann :: Present
+Built, tested and deployed a multitude of both home-brewed and enterprise container security systems to learn which were worth the company's time. This saved the company years of redeploying to different solutions to just shortcut to the best options.
 
-- Developed a regenerative server cluster system for adaptive security management
-- Contribute to developing projects such as Wakatime for Chrome
-- Sharing solid cross-language snippets that make standard tasks uniform
-- Developed an experimental CSS3 based 3D Game Engine
-- Developing tools to amplify core modules for a multitude of programming languages
+|||
+|:--:|--|
+| Technologies | Twistlock, Sysdig, Aqua, HELK, Security Onion, OpenShift, Kubernetes, Docker, Amazon Lambda, Amazon ECS, Amazon EKS, Digital Ocean, Kubernetes, Google GKE |
+| OS | Kali Linux, CoreOS, FreeBSD, CentOS, Alpine, Ubuntu |
+| Languages | Python, Golang, Rust, C |
+| Roles | project lead, container specialist, cloud architect |
 
-## Education
+### Network Monitoring
 
-- Chandler Gilbert Community College :: 2012 - 2014
-- Self study (MIT, Harvard, and UCBerkley open-courseware) :: 2013 - Present
-- University of the People :: 2014 - Present
+Built, tested and deployed a multitude of netflow/packet capture/firewall log analysis tools to give the company deeper insight to AWS, on-prem, and container network traffic.
+
+|||
+|:--:|--|
+| Technologies | PacketBeat, IPTables, Linux Kernel, Berkley Packet Filter, Juniper Netflow, ELK stack, Kafka |
+| OS | Kali Linux, CoreOS, FreeBSD, CentOS, Alpine |
+| Languages | Python, Rust |
+| Roles | support then project lead, kernel developer |
+
+### Stock Analysis
+
+Built an automated stock analysis framework that ingests stock metrics, generates predictions with ML libraries and predicts what the safest stock to invest in was at that moment.
+
+|||
+|:--:|--|
+| Technologies | SQLite, BerkleyDB, RabbitMQ, Kafka, ElasticSearch, TensorFlow, Scikit Learn, Digital Ocean, AWS |
+| OS | Debian, CoreOS, Alpine |
+| Languages | Python, Rust, OpenCL, CUDA |
+| Roles | project lead, software architect |
+
+## Open Source Development
+
+### Battle Tested
+
+Fully automated function fuzzer that within seconds can highlight every crash your code will raise over time. This has given quality assurance audits a serious run for their money due to how many undiscovered issues it is able to find in seconds.
+
+### GraphDB
+
+The fastest pure python graph database available on pypi. This database combines the flexibility of graph databases with the portability and stability of SQLite.
+
+### Queued
+
+Library that turns tiny functions into fully functional async queued services. This was inspired by the DDOS mitigation tool I wrote to give programmers a way to organize a ton of little async monitorable services within a single process or multiple cores.
+
+### Strict Functions
+
+A collection of function decorators that enable things like restricted global access, function overloading, async protection, and automatic crash logging. This library has allowed myself and many others to write more stable and predictable libraries in less time.
+
+### Generators
+
+This started as a collection of special iterator tools and evolved into a library primed for writing high speed pipelines in a single line of pure python. This library has become my bread and butter for quickly solving problems that require pipeline processing in less than 5 minutes.
+
 
 ## References
 
-| Name | Relation | Contact Information |
+| Name | Position | Contact Information |
 |---|---|---|
-| Adam Franco | Engineering Classmate | https://www.linkedin.com/in/adam-franco-769266102 |
-| Kyle Renfrow | CTO at Angel Publishing | 877-303-4529 or kyle.renfrow@angelpub.com |
-| William Orazi | Supervisor at Angel Publishing | 877-303-4529 or williamorazi@gmail.com |
-| Marcin Pohl | local python engineer/colleague | marcinpohl@gmail.com |
+| Christopher Mishaga | CISO @ NASA | christopher.a.mishaga@nasa.gov |
+| Marcin Pohl | Systems / Security Engineer @ NASA | marcin.pohl@nasa.gov |
+| Adam Franco | Software Engineer | https://www.linkedin.com/in/adam-franco-769266102 |
