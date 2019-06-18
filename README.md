@@ -10,7 +10,7 @@
 
 ## Short Summary
 
-I am a self taught cloud architect, programming polyglot and security developer.
+I am a cloud architect, container specialist, programming polyglot and security developer.
 
 ## Top skills
 
@@ -34,7 +34,7 @@ Designed and built the fastest free DDOS mitigation solution my company could fi
 
 ### Log Aggregation
 
-Saved the company millions in log aggregation costs by architecting a distributed ELK cluster designed to ingest and analyze host/network/app logs across our hybrid cloud/on-prem network.
+Reduced forecasted log aggregation costs by architecting a distributed ELK cluster designed to ingest and analyze host/network/app logs across our hybrid cloud/on-prem network.
 
 |||
 |:--:|--|
