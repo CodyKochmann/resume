@@ -21,12 +21,16 @@ I am a cloud architect, container specialist, programming polyglot and security 
 
 ## Experience
 
+> The following experience is intentionally vague to prevent information leakage. As stated above: I'm a security developer.
+
 ### DDOS Mitigation
 
 Designed and built the fastest free DDOS mitigation solution my company could find. This solution was able to block 720,000 new malicious hosts per minute across our entire distributed network.
 
 |||
 |:--:|--|
+| Company | Embedded Flight Systems Inc. |
+| Time | 2016-2019 |
 | Technologies | BerkleyDB, SQLite, BGP, Quagga, RabbitMQ, Linux Kernel |
 | OS | CentOS |
 | Languages | Python, JavaScript, Perl, PHP |
@@ -38,6 +42,8 @@ Reduced forecasted log aggregation costs by architecting a distributed ELK clust
 
 |||
 |:--:|--|
+| Company | Embedded Flight Systems Inc. |
+| Time | 2017 - 2019 |
 | Technologies | ElasticSearch, Logstash, Kibana, syslog/rsyslog/syslog-ng, Kafka, TensorFlow, Docker, Kubernetes, OpenShift, Linux Kernel, AWS, Digital Ocean, VMWare ESXI |
 | OS | CoreOS, Kali Linux, Alpine, FreeBSD, CentOS |
 | Languages | Golang, Python, Rust |
@@ -49,6 +55,8 @@ Built, tested and deployed a multitude of both home-brewed and enterprise contai
 
 |||
 |:--:|--|
+| Company | Embedded Flight Systems Inc. |
+| Time | 2017 - 2019 |
 | Technologies | Twistlock, Sysdig, Aqua, HELK, Security Onion, OpenShift, Kubernetes, Docker, Amazon Lambda, Amazon ECS, Amazon EKS, Digital Ocean, Kubernetes, Google GKE |
 | OS | Kali Linux, CoreOS, FreeBSD, CentOS, Alpine, Ubuntu |
 | Languages | Python, Golang, Rust, C |
@@ -60,10 +68,12 @@ Built, tested and deployed a multitude of netflow/packet capture/firewall log an
 
 |||
 |:--:|--|
+| Company | Embedded Flight Systems Inc. |
+| Time | 2017 - 2019 |
 | Technologies | PacketBeat, IPTables, Linux Kernel, Berkley Packet Filter, Juniper Netflow, ELK stack, Kafka |
 | OS | Kali Linux, CoreOS, FreeBSD, CentOS, Alpine |
 | Languages | Python, Rust |
-| Roles | support then project lead, kernel developer |
+| Roles | support then project lead, solutions architect, kernel developer |
 
 ### Stock Analysis
 
@@ -71,12 +81,16 @@ Built an automated stock analysis framework that ingests stock metrics, generate
 
 |||
 |:--:|--|
+| Company | self |
+| Time | 2014 - current |
 | Technologies | SQLite, BerkleyDB, RabbitMQ, Kafka, ElasticSearch, TensorFlow, Scikit Learn, Digital Ocean, AWS |
 | OS | Debian, CoreOS, Alpine |
 | Languages | Python, Rust, OpenCL, CUDA |
-| Roles | project lead, software architect |
+| Roles | all? |
 
 ## Open Source Development
+
+I am the lead author and architect for all of the following projects.
 
 ### Battle Tested
 
