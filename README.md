@@ -10,18 +10,92 @@
 
 ## Short Summary
 
-I am a cloud architect, container specialist, programming polyglot and security developer.
+I am a cloud architect, automation specialist, programming polyglot, security developer, teacher, and technical lead.
 
 ## Top skills
 
 - I read manuals..
 - I am very good at saving companies a lot of money.
-- I can comfortably code in a wide variety of languages.
-- I can sysadmin just about any OS running on a linux kernel.
+- I comfortably code in a wide variety of languages.
+- I am commonly the go to for advice before engineers go down another rabbit hole.
+- If someone brings me a problem, I'm gonna quickly spot the issue somewhere most would never look.
+- No matter how big or fast it is... I can make it faster.
 
 ## Experience
 
-> The following experience is intentionally vague to prevent information leakage. As stated above: I'm a security developer.
+> Parts of following experience is intentionally vague to prevent information leakage.
+
+### GitLab Company Orchestration
+
+Lead, designed and implemented the entire company's GitLab organization, security layout, and repo architecture. This removed duplicate efforts, enabled developers to safely deploy on their own, and acted as the foundation of an entire culture change in the company to operate and develop more efficiently.
+
+|||
+|:--:|--|
+| Company | QOMPLX Inc. |
+| Time | 2020 - 2023 |
+| Technologies | GitLab |
+| Roles | Project Owner, Solutions Architect, Security Architect, Teacher |
+
+### Pioneering GitLab Automation
+
+Designed and lead the development of CI/CD pipelines that would reshape how the entire company operated. My most proud achievement was inventing mechanisms for dynamic jinja based CI/CD pipelines. This allowed developers to code CI/CD logic in a language they already vividly understood. It also allowed pipelines the ability to alter themselves so teams could focus on the code/applications they were building instead of the infrastructure it would eventually be deployed to. This was one of many game changing discoveries that helped accelerate the company's productivity.
+
+|||
+|:--:|--|
+| Company | QOMPLX Inc. |
+| Time | 2020 - 2023 |
+| Technologies | GitLab, CI/CD |
+| Languages | Python, Bash, Make, Jinja |
+| Roles | Project Lead, Lead Solutions Architect, Security Architect, Teacher |
+
+### Automated Company Intelligence Frameworks
+
+Lead, designed, and implemented many tools that provided deep insights to every corner of the company's infrastructure, development patterns, communication effectiveness, adoption rates and developer empowerment. That work provided primary cornerstones for the devops team to perform investigations and spot issues that previously would have silently hurt the company.
+
+|||
+|:--:|--|
+| Company | QOMPLX Inc. |
+| Time | 2020 - 2023 |
+| Technologies | GitLab, SQLite3, CI/CD |
+| Languages | Python, Golang, Makefile |
+| Roles | Project Lead, Lead Solutions Architect, Security Architect, Teacher |
+
+### CI/CD Runner Research and Development
+
+Researched, designed and implemented many iterations of runner architectures to provide highly reliable, isolated and safe execution environments for developers to safely test and deploy builds. This effort played a key role in eventually maturing teams to adopt fully test driven CI/CD pipeline deployments.
+
+|||
+|:--:|--|
+| Company | QOMPLX Inc. |
+| Time | 2020 - 2023 |
+| Technologies | Kubernetes, Docker, Linux Kernel Security, AWS EKS, AWS ECS, AWS EC2 |
+| OS | Debian, Amazon Linux, CoreOS |
+| Languages | Golang, Python, Make |
+| Roles | Project Lead, Solutions Architect, Security Architect, Security Developer, System Admin, Teacher |
+
+### Kubernetes Security Architect
+
+I was the lead security architect that laid out how the company was going to turn their adoption of kubernetes into an opportunity to vastly improve the company's security posture. This included designing how the isolation would work and be enforced between the network, cluster and application levels along with improved secrets management practices, permission models, risk assessment, and security scanning.
+
+|||
+|:--:|--|
+| Company | QOMPLX Inc. |
+| Technologies | Kubernetes, AWS, GitLab |
+| Time | 2020 - 2021 |
+| Roles | Lead Security Architect, SME, Teacher |
+
+### Log Man
+
+Designed and built the company's centralized log collection using lessons learned from previous endeavors. Got close to breaking some world records and after handing off the project to other amazing people I eventually became the go to source of knowledge when they got stuck with future endeavors as they developed new designs.
+
+|||
+|:--:|--|
+| Company | QOMPLX Inc. |
+| Time | 2019 - 2023 |
+| Technologies | rsyslog/syslog-ng, Postgres, HPC AWS EBS, LVM, Loki, Grafana, ElasticSearch, Logstash, Kibana, Kafka, Kubernetes, Linux Kernel, AWS |
+| OS | Debian, Amazon Linux, Ubuntu, CoreOS, CentOS |
+| Languages | Golang, Python, Rust |
+| Roles | Project Lead, AWS architect, Solutions Architect, SME, Teacher |
 
 ### DDOS Mitigation
 
@@ -110,13 +184,15 @@ A collection of function decorators that enable things like restricted global ac
 
 ### Generators
 
-This started as a collection of special iterator tools and evolved into a library primed for writing high speed pipelines in a single line of pure python. This library has become my bread and butter for quickly solving problems that require pipeline processing in less than 5 minutes.
-
+This started as a collection of special iterator tools and evolved into a library primed for writing high speed pipelines in a single line of pure python. This library has become my bread and butter for quickly solving problems that require pipeline processing.
 
 ## References
 
 | Name | Position | Contact Information |
 |---|---|---|
-| Christopher Mishaga | CISO @ NASA | christopher.a.mishaga@nasa.gov |
 | Marcin Pohl | Systems / Security Engineer @ NASA | marcin.pohl@nasa.gov |
-| Adam Franco | Software Engineer | https://www.linkedin.com/in/adam-franco-769266102 |
+| Beck Norris | Information Security / Compliance Expert @ Frontier Airlines | rrnorris33@gmail.com |
+| Mason Walton | Automation Engineer @QOMPLX | fin.mwalto7@gmail.com |
+| Jason Hurley | Technical Lead @ QOMPLX | j.m.hurley@gmail.com |
+| Nic Ladas | Senior Platform Architect @ Federal Reserve Bank | https://www.linkedin.com/in/nicladas/ |
+| Christopher Mishaga | CISO @ NASA | christopher.a.mishaga@nasa.gov |
