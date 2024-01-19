@@ -25,6 +25,17 @@ I am a cloud architect, automation specialist, programming polyglot, security de
 
 > Parts of following experience is intentionally vague to prevent information leakage.
 
+### Ephemeral Development Environment Automation
+
+Drove the development of the tools and workflows needed to quickly generate fresh development environments for isolated experiments. This unlocked the company from working out of the same shared development infrastructure and provided developers safe and isolated environments to work and experiment in independently.
+
+|||
+|:--:|--|
+| Company | Strake |
+| Time | 2023 - 2023 |
+| Technologies | GitHub, CloudFormation, BuildKite, Make, Python, Bash |
+| Roles | Project Owner, Solutions Architect |
+
 ### GitLab Company Orchestration
 
 Lead, designed and implemented the entire company's GitLab organization, security layout, and repo architecture. This removed duplicate efforts, enabled developers to safely deploy on their own, and acted as the foundation of an entire culture change in the company to operate and develop more efficiently.
@@ -51,6 +62,16 @@ Designed and lead the development of CI/CD pipelines that would reshape how the 
 ### Automated Company Intelligence Frameworks
 
 Lead, designed, and implemented many tools that provided deep insights to every corner of the company's infrastructure, development patterns, communication effectiveness, adoption rates and developer empowerment. That work provided primary cornerstones for the devops team to perform investigations and spot issues that previously would have silently hurt the company.
+
+|||
+|:--:|--|
+| Company | Strake |
+| Time | 2023 - 2023 |
+| Technologies | GitHub, CI/CD, BuildKite |
+| Languages | Makefile, Bash |
+| Roles | Project Lead, Lead Solutions Architect, Security Architect, Teacher |
+
+and
 
 |||
 |:--:|--|
@@ -188,9 +209,13 @@ This started as a collection of special iterator tools and evolved into a librar
 
 ## References
 
+All of the following were solid people I had the honor to work with and would love to work with again one day.
+
 | Name | Position | Contact Information |
 |---|---|---|
 | Marcin Pohl | Systems / Security Engineer @ NASA | marcin.pohl@nasa.gov |
+| Adam Younce | CTO @ Strake | ayounce@ripcord.net |
+| Jim Treinen | CEO @ Strake |  |
 | Beck Norris | Information Security / Compliance Expert @ Frontier Airlines | rrnorris33@gmail.com |
 | Mason Walton | Automation Engineer @QOMPLX | fin.mwalto7@gmail.com |
 | Jason Hurley | Technical Lead @ QOMPLX | j.m.hurley@gmail.com |
