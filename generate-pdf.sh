@@ -8,6 +8,7 @@ export OUTPUT_FILE='resume.pdf'
 
 test -f "$TARGET"
 
-pandoc "$TARGET" --wrap=preserve -f markdown -o "$OUTPUT_FILE"
+pandoc "$TARGET" --wrap=preserve -f markdown -o "$OUTPUT_FILE" -V geometry:margin=1.25in
+
 
 test -f "$OUTPUT_FILE"

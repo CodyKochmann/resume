@@ -3,7 +3,7 @@
 Senior Infrastructure Engineer / Security Developer / DevSecOps Enthusiast
 
 |||
-|:---:|---|
+|:---|---|
 |Phone | 443-538-9639 |
 |Email | kochmanncody@gmail.com |
 |GitHub | https://github.com/CodyKochmann |
@@ -24,31 +24,39 @@ I'm a senior infrastructure engineer, security developer, programming polyglot a
 
 ## Experience
 
-> Note for Recruiters: This resume's timeline is correct. 2024 was spent helping several colleagues with research into LLM design, training, utilization, and risks.
+*This resume's timeline is correct. 2024 was spent helping several colleagues with research into LLM design, training, utilization, and risks.*
 
-### Strake (September 2023 - December 2023)
+---
 
-> Strake had VC funding pulled in December 2023
+## Strake - September 2023 to December 2023
 
-|||
-|:---:|---|
-| Roles | Lead Senior Infrastructure Engineer |
-| Languages | Make, Python, Bash |
-| Technologies | GitHub, CloudFormation, CodeDeploy, BuildKite, Postgres, SQLite3, SQS, Lambda |
+*VC funding pulled in December 2023.*
+
+**Roles**: Lead Senior Infrastructure Engineer
+
+**Programming Languages**: Make, Python, Bash
+
+**Technologies**: GitHub, CloudFormation, CodeDeploy, BuildKite, Postgres, SQLite3, SQS, Lambda
+
+**Achievements**:
 
 - Drove the development of the tools and workflows needed to generate ephemeral development environments for engineers to safely preform isolated experiments. 
 - Designed and implemented tools that provided deep insights to every corner of the company's infrastructure, development patterns, and communication effectiveness.
 
-### QOMPLX (September 2019 - July 2023)
+---
 
-> Note: QOMPLX officially ran out of funds in July 2023
+## QOMPLX - September 2019 to July 2023
 
-|||
-|:---:|---|
-| Roles | Senior Cloud Platform Automation Engineer, Project Lead, Kubernetes SME, Lead Solutions Architect, Security Architect, Security Developer, Teacher |
-| Languages | Python, Golang, Rust, Make, Bash, Jinja, YAML |
-| Technologies | GitLab, CI/CD Pipelines, CI Runners, Kubernetes, Docker, Terraform, Linux Kernel, rsyslog, syslog-ng, Postgres, SQLite3, perf, ebpf, LVM2, Loki, Grafana, Kafka, ElasticSearch, Logstash, Kibana, Kafka, Prometheus, Aqua, Sysdig, Twistlock, CrowdStrike, Linux Kernel, Digital Ocean, Linode, AWS (EKS, ECS, EC2, Lambda, CloudTrail, SQS, S3, Lambda, Config, IAM), and more |
-| Operating Systems | Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS |
+*Ran out of funds in July 2023.*
+
+**Roles**: Senior Cloud Platform Automation Engineer, Project Lead, Kubernetes SME, Lead Solutions Architect, Security Architect, Security Developer, Mentor
+
+**Programming Languages**: Python, Golang, Rust, Make, Bash, Jinja, YAML
+
+**Technologies**: GitLab, CI/CD Pipelines, CI Runners, Kubernetes, Docker, Terraform, Linux Kernel, rsyslog, syslog-ng, Postgres, SQLite3, perf, ebpf, LVM2, Loki, Grafana, Kafka, ElasticSearch, Logstash, Kibana, Kafka, Prometheus, Aqua, Sysdig, Twistlock, CrowdStrike, Linux Kernel, Digital Ocean, Linode, AWS (EKS, ECS, EC2, Lambda, CloudTrail, SQS, S3, Lambda, Config, IAM), and more
+Operating Systems: Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS
+
+**Achievements**:
 
 - Lead, designed and implemented the entire company's GitLab organization, security layout, and repo architecture.
 - Designed and lead the development of CI/CD pipelines that would reshape how the entire company operated.
@@ -67,15 +75,18 @@ I'm a senior infrastructure engineer, security developer, programming polyglot a
 - Acted as the platform team's scrum master ensuring the team's efforts were in sync with the company's long term goals
 - So much more...
 
-### EMBEDDED FLIGHT SYSTEMS INC (January 2017 - July 2019)
+---
 
-|||
-|:---:|---|
-| Roles | Network Operations Engineer, Security Developer |
+## EMBEDDED FLIGHT SYSTEMS INC - January 2017 to July 2019
 
-| Languages | Python, Golang, Rust, Bash |
-| Technologies | Docker, Kubernetes, rocket, Twistlock, Sysdig, Aqua, HELK, Security Onion, OpenShift, Kubernetes, Docker, Amazon Lambda, Amazon ECS, Amazon EKS, Digital Ocean, Google GKE, systemd, rpm |
-| Operating Systems | Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS, Cisco |
+**Roles**: Network Operations Engineer, Security Developer, Mentor
+
+**Programming Languages**: Python, Golang, Rust, Bash
+
+**Technologies**: Docker, Kubernetes, rocket, Twistlock, Sysdig, Aqua, HELK, Security Onion, OpenShift, Kubernetes, Docker, Amazon Lambda, Amazon ECS, Amazon EKS, Digital Ocean, Google GKE, systemd, rpm
+Operating Systems: Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS, Cisco
+
+**Achievements**:
 
 - Designed and built a high performance DDOS mitigation tool capable of protecting NASA's network from state sponsored scale attacks.
 - Architected a high performance distributed ELK cluster to ingest and analyze network logs across our hybrid cloud / on prem network.
@@ -84,7 +95,9 @@ I'm a senior infrastructure engineer, security developer, programming polyglot a
 - Designed and implemented a multitude of netflow/packet capture/firewall log analysis tools to give the company deeper insight to AWS, on-prem, and container network traffic.
 - Taught developers about the principals of defensive coding and how to build highly resiliant architectures that met NASA's reliability and security standards.
 
-### Open Source Development (June 2013 - Present)
+---
+
+### Open Source Development | June 2013 - Present
 
 I am the lead author and architect for all of the following projects.
 
@@ -94,8 +107,8 @@ I am the lead author and architect for all of the following projects.
 | [generators](https://github.com/CodyKochmann/generators) | High preformance pipeline processing library written in pure python. |
 | [graphdb](https://github.com/CodyKochmann/graphdb) | The fastest pure python graph database available on pypi. |
 | [queued](https://github.com/CodyKochmann/queued) | Turns functions into fully functional multi-core queued services. |
-| [strict_functions](https://github.com/CodyKochmann/strict_functions) | Function decorators that enable things like restricted global access, function overloading, async protection, and automatic crash logging for more secure python code. |
-| [stricttuple](https://github.com/CodyKochmann/stricttuple) | python tuples with rust style built in rule enforcement |
+| [strict_functions](https://github.com/CodyKochmann/strict_functions) | Function decorators for more secure python code execution. |
+| [stricttuple](https://github.com/CodyKochmann/stricttuple) | Python tuples with rust style built in rule enforcement |
 | [litecollections](https://github.com/CodyKochmann/litecollections) | python collection types except they're all backed by SQLite |
 
 
