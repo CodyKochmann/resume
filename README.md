@@ -6,7 +6,7 @@ Principal Infrastructure Engineer, Security Developer & DevSecOps Enthusiast
 
 ## Summary
 
-I'm a senior infrastructure engineer, security developer, programming polyglot and DevSecOps enthusiast. Whether you need to accelerate your developer workflows, harden your infrastructure for state sponsored attacks, push high performance systems or simply need a passionate software engineer you can trust to drive company goals I'm your guy.
+I'm a principal infrastructure engineer, security developer, programming polyglot and DevSecOps enthusiast. Whether you need to accelerate your developer workflows, harden your infrastructure for state sponsored attacks, push high performance systems or simply need a passionate software engineer you can trust to drive company goals I'm your guy.
 
 ## Top skills
 
@@ -26,7 +26,7 @@ I'm a senior infrastructure engineer, security developer, programming polyglot a
 
 *Strake closed business in December 2023.*
 
-**Roles**: Lead Senior Infrastructure Engineer
+**Roles**: Principal Infrastructure Engineer
 
 **Programming Languages**: Make, Python, Bash
 
