@@ -1,6 +1,6 @@
 # Cody Kochmann
 
-Senior Infrastructure Engineer, Security Developer & DevSecOps Enthusiast
+Principal Infrastructure Engineer, Security Developer & DevSecOps Enthusiast
 
 443-538-9639 | kochmanncody@gmail.com | https://github.com/CodyKochmann
 
@@ -43,7 +43,7 @@ I'm a senior infrastructure engineer, security developer, programming polyglot a
 
 *QOMPLX closed business in July 2023.*
 
-**Roles**: Senior Cloud Platform Automation Engineer, Project Lead, Kubernetes SME, Lead Solutions Architect, Security Architect, Security Developer, Mentor
+**Roles**: Principal Cloud Platform Automation Engineer, Project Lead, Kubernetes SME, Solutions Architect, Security Architect, Security Developer, Mentor
 
 **Programming Languages**: Python, Golang, Rust, Make, Bash, Jinja, YAML
 
