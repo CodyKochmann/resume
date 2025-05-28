@@ -47,8 +47,7 @@ I'm a principal infrastructure engineer, security developer, programming polyglo
 
 **Programming Languages**: Python, Golang, Rust, Make, Bash, Jinja, YAML
 
-**Technologies**: GitLab, CI/CD Pipelines, CI Runners, Kubernetes, Docker, Terraform, Linux Kernel, rsyslog, syslog-ng, Postgres, SQLite3, perf, ebpf, LVM2, Loki, Grafana, Kafka, ElasticSearch, Logstash, Kibana, Kafka, Prometheus, Aqua, Sysdig, Twistlock, CrowdStrike, Linux Kernel, Digital Ocean, Linode, AWS (EKS, ECS, EC2, Lambda, CloudTrail, SQS, S3, Lambda, Config, IAM), and more
-Operating Systems: Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS
+**Technologies**: GitLab, CI/CD Pipelines, CI Runners, Kubernetes, Docker, Terraform, Linux Kernel, rsyslog, syslog-ng, Postgres, SQLite3, perf, ebpf, LVM2, Loki, Grafana, Kafka, ElasticSearch, Logstash, Kibana, Kafka, Prometheus, Aqua, Sysdig, Twistlock, CrowdStrike, Linux Kernel, Digital Ocean, Linode, AWS (EKS, ECS, EC2, Lambda, CloudTrail, SQS, S3, Lambda, Config, IAM), Istio, Argo, Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS, VMWare
 
 **Achievements**:
 
@@ -77,8 +76,7 @@ Operating Systems: Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS
 
 **Programming Languages**: Python, Golang, Rust, Bash
 
-**Technologies**: Docker, Kubernetes, rocket, Twistlock, Sysdig, Aqua, HELK, Security Onion, OpenShift, Kubernetes, Docker, Amazon Lambda, Amazon ECS, Amazon EKS, Digital Ocean, Google GKE, systemd, rpm
-Operating Systems: Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS, Cisco
+**Technologies**: Docker, Kubernetes, rocket, Twistlock, Sysdig, Aqua, HELK, Security Onion, OpenShift, Kubernetes, Docker, Amazon Lambda, Amazon ECS, Amazon EKS, Digital Ocean, Google GKE, Systemd, RPM, Debian, Amazon Linux, CoreOS, Ubuntu, Fedora, FreeBSD, CentOS, Cisco, VMWare
 
 **Achievements**:
 
