@@ -24,7 +24,7 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Programming Languages**: Bash, Python, YAML
 
-**Technologies**: Azure, Kubernetes (AKS), Terraform, ArgoCD, Grafana Stack, Istio, Falco, HashiCorp Vault, SealedSecrets, Zot, Trivy
+**Technologies**: Azure, Kubernetes (AKS), Terraform, ArgoCD, Argo Workflows, Grafana Stack, Istio, Falco, HashiCorp Vault (OpenBao), SealedSecrets, Zot, Trivy, Agentic AI (Claude, Hermes)
 
 **Achievements**:
 
@@ -32,8 +32,28 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 - Architected and executed the migration of all live infrastructure to Kubernetes, fully codifying the environment into modular, reusable Terraform components.
 - Championed the adoption of immutable infrastructure principles by implementing GitOps workflows with ArgoCD.
 - Designed and deployed centralized observability and logging pipelines using the complete Grafana stack.
+- **AI-Accelerated Operations:** Leveraged Agentic AI tooling as a force multiplier to rapidly architect, test, and deploy infrastructure as code, significantly accelerating project delivery timelines.
 - **Security & Operations:** Hardened network traffic by deploying an Istio service mesh, configured Falco for real-time intrusion detection (IDS), and established strict RBAC across all environments.
 - **Supply Chain Security:** Secured the software supply chain by building isolated build environments, integrating Trivy for automated container vulnerability scanning, and managing the Zot registry. Safely managed credentials utilizing Vault and SealedSecrets.
+
+---
+
+## Independent AI Researcher - 2024
+
+**Roles**: Independent Researcher, AI Consultant
+
+**Programming Languages**: Python, Bash
+
+**Technologies**: Large Language Models (LLMs), Agentic Frameworks, Prompt Engineering, Vector Databases
+
+**Achievements**:
+
+- Designed and tested secure sandboxing methods to safely provide LLM capabilities within highly sensitive and restricted environments.
+- Analyzed the security risks and hallucination vectors of deploying LLMs in enterprise environments, developing strategies for safe adoption.
+- Assisted in critical research initiatives focused on optimizing AI operational spend and reducing infrastructure overhead.
+- Researched and implemented local GPU optimization techniques to maximize the performance of on-premise inferencing.
+- Mastered advanced prompting techniques and agentic workflows (utilizing tools like Antigravity, Claude and Ollama) which directly translated into immense productivity multipliers for future infrastructure automation roles.
+- Conducted extensive independent and collaborative research into Large Language Model (LLM) design, training methodologies, and practical utilization for software engineering.
 
 ---
 
@@ -66,20 +86,12 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Achievements**:
 
-- Lead, designed and implemented the entire company's GitLab organization, security layout, and repo architecture.
-- Designed and lead the development of CI/CD pipelines that would reshape how the entire company operated.
-- Drove company culture changes by building the tools to enable development teams to take ownership and automate their own deployments.
-- **Security & Threat Management:** Drove security and vulnerability scanning operations for the entire company. Identified and prevented active security breaches that would have gone unnoticed by normal company operations, and addressed thousands of legacy vulnerabilities in the infrastructure.
-- **Observability:** Designed and built the company's centralized log collection systems providing new levels of observability into all levels the company.
-- Lead the company's migration to Kubernetes as a Kubernetes SME and security architect.
-- Took ownership of the entire company's CI/CD runner research and deployments to ensure security in the company's supply chain.
-- Held weekly lectures for developers on defensive coding, infrastructure insights, company operations, high performance architecture and other topics that strengthened the company.
-- Salvaged multiple large client relationships by stepping in and addressing product issues live in production environments.
-- Designed intelligence tools to allow senior engineers to monitor company wide changes from a single view.
-- Managed the security of on-prem deployments for special clients.
-- Lead, tracked, and addressed security issues across the company.
-- Acted as the platform team's scrum master ensuring the team's efforts were in sync with the company's long term goals
-- So much more...
+- **Automation & CI/CD:** Led the design and development of the company's GitLab organization and CI/CD pipelines, building tools that enabled development teams to securely automate their own deployments.
+- **Infrastructure & Kubernetes:** Spearheaded the company's comprehensive migration to Kubernetes as a Subject Matter Expert (SME) and Security Architect.
+- **Security & Threat Management:** Drove security and vulnerability scanning operations company-wide. Identified and prevented active security breaches and remediated thousands of legacy infrastructure vulnerabilities.
+- **Observability:** Architected centralized log collection systems, providing unprecedented levels of observability across all operational layers of the company.
+- **Technical Leadership:** Acted as the platform team's Scrum Master and held weekly lectures for developers on defensive coding, infrastructure optimization, and high-performance architecture.
+- **Client Operations:** Salvaged major client relationships by directly resolving complex product issues in live production environments and managing the security of specialized on-prem deployments.
 
 ---
 
