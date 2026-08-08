@@ -30,11 +30,11 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 - **Security & Operations:** Hardened network traffic by deploying an Istio service mesh, configured Falco for real-time intrusion detection (IDS), and established strict RBAC across all environments.
 - **Supply Chain Security:** Secured the software supply chain by building isolated build environments, integrating Trivy for automated container vulnerability scanning, and managing the Zot registry. Safely managed credentials utilizing Vault and SealedSecrets.
-- Lead the comprehensive overhaul of the Third-Party Risk Management (TPRM) Azure infrastructure, establishing a mature, highly resilient posture rooted in industry best practices.
-- Architected and executed the migration of all live infrastructure to Kubernetes, fully codifying the environment into modular, reusable Terraform components.
+- **Cloud Infrastructure:** Lead the comprehensive overhaul of the Third-Party Risk Management (TPRM) Azure infrastructure, establishing a mature, highly resilient posture rooted in industry best practices.
+- **Kubernetes & IaC:** Architected and executed the migration of all live infrastructure to Kubernetes, fully codifying the environment into modular, reusable Terraform components.
 - **AI-Accelerated Operations:** Leveraged Agentic AI tooling as a force multiplier to rapidly architect, test, and deploy infrastructure as code, significantly accelerating project delivery timelines.
-- Championed the adoption of immutable infrastructure principles by implementing GitOps workflows with ArgoCD.
-- Designed and deployed centralized observability and logging pipelines using the complete Grafana stack.
+- **GitOps & Automation:** Championed the adoption of immutable infrastructure principles by implementing GitOps workflows with ArgoCD.
+- **Observability & Monitoring:** Designed and deployed centralized observability and logging pipelines using the complete Grafana stack.
 
 ---
 
