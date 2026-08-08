@@ -28,13 +28,13 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Achievements**:
 
-- Lead the comprehensive overhaul of the Third-Party Risk Management (TPRM) Azure infrastructure, establishing a mature, highly resilient posture rooted in industry best practices.
-- Architected and executed the migration of all live infrastructure to Kubernetes, fully codifying the environment into modular, reusable Terraform components.
-- Championed the adoption of immutable infrastructure principles by implementing GitOps workflows with ArgoCD.
-- Designed and deployed centralized observability and logging pipelines using the complete Grafana stack.
-- **AI-Accelerated Operations:** Leveraged Agentic AI tooling as a force multiplier to rapidly architect, test, and deploy infrastructure as code, significantly accelerating project delivery timelines.
 - **Security & Operations:** Hardened network traffic by deploying an Istio service mesh, configured Falco for real-time intrusion detection (IDS), and established strict RBAC across all environments.
 - **Supply Chain Security:** Secured the software supply chain by building isolated build environments, integrating Trivy for automated container vulnerability scanning, and managing the Zot registry. Safely managed credentials utilizing Vault and SealedSecrets.
+- Lead the comprehensive overhaul of the Third-Party Risk Management (TPRM) Azure infrastructure, establishing a mature, highly resilient posture rooted in industry best practices.
+- Architected and executed the migration of all live infrastructure to Kubernetes, fully codifying the environment into modular, reusable Terraform components.
+- **AI-Accelerated Operations:** Leveraged Agentic AI tooling as a force multiplier to rapidly architect, test, and deploy infrastructure as code, significantly accelerating project delivery timelines.
+- Championed the adoption of immutable infrastructure principles by implementing GitOps workflows with ArgoCD.
+- Designed and deployed centralized observability and logging pipelines using the complete Grafana stack.
 
 ---
 
@@ -86,12 +86,12 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Achievements**:
 
-- **Automation & CI/CD:** Led the design and development of the company's GitLab organization and CI/CD pipelines, building tools that enabled development teams to securely automate their own deployments.
-- **Infrastructure & Kubernetes:** Spearheaded the company's comprehensive migration to Kubernetes as a Subject Matter Expert (SME) and Security Architect.
 - **Security & Threat Management:** Drove security and vulnerability scanning operations company-wide. Identified and prevented active security breaches and remediated thousands of legacy infrastructure vulnerabilities.
+- **Infrastructure & Kubernetes:** Spearheaded the company's comprehensive migration to Kubernetes as a Subject Matter Expert (SME) and Security Architect.
+- **Client Operations:** Salvaged major client relationships by directly resolving complex product issues in live production environments and managing the security of specialized on-prem deployments.
+- **Automation & CI/CD:** Led the design and development of the company's GitLab organization and CI/CD pipelines, building tools that enabled development teams to securely automate their own deployments.
 - **Observability:** Architected centralized log collection systems, providing unprecedented levels of observability across all operational layers of the company.
 - **Technical Leadership:** Acted as the platform team's Scrum Master and held weekly lectures for developers on defensive coding, infrastructure optimization, and high-performance architecture.
-- **Client Operations:** Salvaged major client relationships by directly resolving complex product issues in live production environments and managing the security of specialized on-prem deployments.
 
 ---
 
