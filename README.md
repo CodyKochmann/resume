@@ -6,19 +6,34 @@ Principal Infrastructure Engineer, Security Developer & DevSecOps Enthusiast
 
 ## Summary
 
-I'm a principal infrastructure engineer, security developer, programming polyglot and DevSecOps enthusiast. Whether you need to accelerate your developer workflows, harden your infrastructure for state sponsored attacks, push high performance systems or simply need a passionate software engineer you can trust to drive company goals I'm your guy.
+I'm a principal infrastructure engineer, security developer, and DevSecOps enthusiast. Whether you need to accelerate your developer workflows through automation, harden your infrastructure against state-sponsored attacks, or design high-performance distributed systems, I have a proven track record of driving mission-critical company goals.
 
-## Top skills
+## Technical Skills
 
-- Addressing Nuance
-- Project Management
-- Operational Cost Reduction
-- High Performance Tuning
-- Security Design
+- **Infrastructure & Cloud:** Kubernetes (EKS, AKS, GKE), Terraform, AWS, Azure, Linux, CloudFormation, ArgoCD, Docker
+- **Security & Operations:** DevSecOps, Istio, Falco, Vault, Trivy, Threat Detection, Vulnerability Management, RBAC, Grafana, ELK/HELK Stack
+- **Languages & Automation:** Python, Golang, Rust, Bash, CI/CD (GitLab, GitHub Actions, Buildkite), Infrastructure as Code (IaC)
 
 ## Experience
 
-*This resume's timeline is correct. 2024 was spent helping several colleagues with research into LLM design, training, utilization, and risks.*
+---
+
+## NICO - 2025 to Present
+
+**Roles**: Lead Infrastructure Engineer
+
+**Programming Languages**: Bash, Python, YAML
+
+**Technologies**: Azure, Kubernetes (AKS), Terraform, ArgoCD, Grafana Stack, Istio, Falco, HashiCorp Vault, SealedSecrets, Zot, Trivy
+
+**Achievements**:
+
+- Lead the comprehensive overhaul of the Third-Party Risk Management (TPRM) Azure infrastructure, establishing a mature, highly resilient posture rooted in industry best practices.
+- Architected and executed the migration of all live infrastructure to Kubernetes, fully codifying the environment into modular, reusable Terraform components.
+- Championed the adoption of immutable infrastructure principles by implementing GitOps workflows with ArgoCD.
+- Designed and deployed centralized observability and logging pipelines using the complete Grafana stack.
+- **Security & Operations:** Hardened network traffic by deploying an Istio service mesh, configured Falco for real-time intrusion detection (IDS), and established strict RBAC across all environments.
+- **Supply Chain Security:** Secured the software supply chain by building isolated build environments, integrating Trivy for automated container vulnerability scanning, and managing the Zot registry. Safely managed credentials utilizing Vault and SealedSecrets.
 
 ---
 
@@ -54,10 +69,8 @@ I'm a principal infrastructure engineer, security developer, programming polyglo
 - Lead, designed and implemented the entire company's GitLab organization, security layout, and repo architecture.
 - Designed and lead the development of CI/CD pipelines that would reshape how the entire company operated.
 - Drove company culture changes by building the tools to enable development teams to take ownership and automate their own deployments.
-- Drove security and vulnerability scanning operations for the entire company.
-- Addressed and resolved thousands of vulnerabilities that were in the company's infrastructure.
-- Identified and prevented active security breaches that would have gone unnoticed by normal company operations.
-- Designed and built the company's centralized log collection systems providing new levels of observability into all levels the company.
+- **Security & Threat Management:** Drove security and vulnerability scanning operations for the entire company. Identified and prevented active security breaches that would have gone unnoticed by normal company operations, and addressed thousands of legacy vulnerabilities in the infrastructure.
+- **Observability:** Designed and built the company's centralized log collection systems providing new levels of observability into all levels the company.
 - Lead the company's migration to Kubernetes as a Kubernetes SME and security architect.
 - Took ownership of the entire company's CI/CD runner research and deployments to ensure security in the company's supply chain.
 - Held weekly lectures for developers on defensive coding, infrastructure insights, company operations, high performance architecture and other topics that strengthened the company.
@@ -80,11 +93,10 @@ I'm a principal infrastructure engineer, security developer, programming polyglo
 
 **Achievements**:
 
-- Designed and built a high performance DDOS mitigation tool capable of protecting NASA's network from state sponsored attacks.
-- Architected a high performance distributed ELK cluster to ingest and analyze network logs across our hybrid cloud / on-prem network.
+- **Security Architecture:** Designed and built a high performance DDOS mitigation tool capable of protecting NASA's network from state sponsored attacks.
+- **Security Operations:** Architected a high performance distributed ELK cluster to ingest and analyze network logs across our hybrid cloud / on-prem network. Designed and implemented a multitude of netflow/packet capture/firewall log analysis tools to give the company deeper insight to AWS, on-prem, and container network traffic.
 - Preformed security analysis for numerous black box solutions to identify how safe the tools were to use and how we could keep them locked down when risks were identified.
 - Lead the efforts for analyzing which container security analysis tools were worthy of NASA's security standards.
-- Designed and implemented a multitude of netflow/packet capture/firewall log analysis tools to give the company deeper insight to AWS, on-prem, and container network traffic.
 - Taught developers about the principals of defensive coding and how to build highly resilient architectures that met NASA's reliability and security standards.
 
 ---
