@@ -10,7 +10,7 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 ## Technical Skills
 
-- **Infrastructure & Cloud:** Kubernetes (EKS, AKS, GKE), Terraform, AWS, Azure, Linux, CloudFormation, ArgoCD, Docker
+- **Infrastructure & Cloud:** Kubernetes (EKS, AKS, GKE), Terraform, OpenTofu, AWS, Azure, Linux, CloudFormation, ArgoCD, Docker
 - **Security & Operations:** DevSecOps, Istio, Falco, Vault, Trivy, Threat Detection, Vulnerability Management, RBAC, Grafana, ELK/HELK Stack
 - **Languages & Automation:** Python, Golang, Rust, Bash, CI/CD (GitLab, GitHub Actions, Buildkite), Infrastructure as Code (IaC)
 
@@ -24,7 +24,7 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Programming Languages**: Bash, Python, YAML
 
-**Technologies**: Azure, Kubernetes (AKS), Terraform, ArgoCD, Argo Workflows, Grafana Stack, Istio, Falco, HashiCorp Vault (OpenBao), SealedSecrets, Zot, Trivy, Agentic AI (Claude, Hermes)
+**Technologies**: Azure, Kubernetes (AKS), Terraform, OpenTofu, ArgoCD, Argo Workflows, Grafana Stack, Istio, Falco, HashiCorp Vault (OpenBao), SealedSecrets, Zot, Trivy, Agentic AI (Claude, Hermes)
 
 **Achievements**:
 
@@ -38,9 +38,9 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 ---
 
-## Independent AI Researcher - 2024
+## Agentic AI Researcher & Consultant - 2024
 
-**Roles**: Independent Researcher, AI Consultant
+**Roles**: Agentic AI Researcher (Collaborative Initiative with former NASA colleagues)
 
 **Programming Languages**: Python, Bash
 
@@ -48,12 +48,12 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Achievements**:
 
-- Designed and tested secure sandboxing methods to safely provide LLM capabilities within highly sensitive and restricted environments.
-- Analyzed the security risks and hallucination vectors of deploying LLMs in enterprise environments, developing strategies for safe adoption.
-- Assisted in critical research initiatives focused on optimizing AI operational spend and reducing infrastructure overhead.
+- Partnered with former NASA engineering colleagues to conduct extensive research into Large Language Model (LLM) design, training methodologies, and practical utilization for software engineering in secure environments.
+- Designed and tested secure sandboxing methods to safely provide LLM capabilities within highly sensitive and restricted enterprise networks.
+- Analyzed the security risks and hallucination vectors of deploying LLMs in enterprise environments, developing strategies for safe, air-gapped adoption.
+- Collaborated on critical research initiatives focused on optimizing AI operational spend and reducing infrastructure overhead.
 - Researched and implemented local GPU optimization techniques to maximize the performance of on-premise inferencing.
 - Mastered advanced prompting techniques and agentic workflows (utilizing tools like Antigravity, Claude and Ollama) which directly translated into immense productivity multipliers for future infrastructure automation roles.
-- Conducted extensive independent and collaborative research into Large Language Model (LLM) design, training methodologies, and practical utilization for software engineering.
 
 ---
 
