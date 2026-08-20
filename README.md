@@ -13,6 +13,7 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 - **Infrastructure & Cloud:** Kubernetes (EKS, AKS, GKE), Terraform, OpenTofu, AWS, Azure, Linux, CloudFormation, ArgoCD, Docker
 - **Security & Operations:** DevSecOps, Istio, Falco, Vault, Trivy, Threat Detection, Vulnerability Management, RBAC, Grafana, ELK/HELK Stack
 - **Languages & Automation:** Python, Golang, Rust, Bash, CI/CD (GitLab, GitHub Actions, Buildkite), Infrastructure as Code (IaC)
+- **Agentic AI & LLMs:** Claude, LangChain, LangGraph, Ollama, Mistral, Qwen, Hermes, OpenAI, Mem0, Antigravity, OpenClaw, Oh-My-Pi, RAG (Retrieval-Augmented Generation), Vector Databases, Prompt Engineering, Agentic Frameworks, LLM Sandboxing & Harnesses, LLMOps, MLOps, AI Security, LLM Guardrails, On-Premise Inferencing, AIOps
 
 ## Experience
 
@@ -20,7 +21,7 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 ## NICO - 2025 to Present
 
-**Roles**: Lead Infrastructure Engineer
+**Roles**: Principal Infrastructure Engineer
 
 **Programming Languages**: Bash, Python, YAML
 
