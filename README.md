@@ -87,10 +87,12 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Achievements**:
 
+- **AWS Cloud Security & IAM:** Acted as Lead Security Architect, driving the migration to full RBAC-based access control. Designed our multi-account AWS Organization modeled after NASA's multi-account architecture, and enforced custom IAM least-privilege policies for all internal engineering teams and external contractor groups.
+- **Data Protection & Secrets Management:** Eradicated hardcoded credentials by migrating all application secrets into AWS Secrets Manager and HashiCorp Vault. Enforced strict encryption-at-rest across all S3 buckets and EBS volumes, and both mandated and implemented TLS and mTLS encryption-in-transit for all internal and external network communications.
 - **Security & Threat Management:** Drove security and vulnerability scanning operations company-wide. Identified and prevented active security breaches and remediated thousands of legacy infrastructure vulnerabilities.
 - **Infrastructure & Kubernetes:** Spearheaded the company's comprehensive migration to Kubernetes as a Subject Matter Expert (SME) and Security Architect.
 - **Client Operations:** Salvaged major client relationships by directly resolving complex product issues in live production environments and managing the security of specialized on-prem deployments.
-- **Automation & CI/CD:** Led the design and development of the company's GitLab organization and CI/CD pipelines, building tools that enabled development teams to securely automate their own deployments.
+- **Automation & CI/CD (GitLab):** Led the design and development of the company's GitLab organization and CI/CD pipelines. Embedded security scanning (SAST/SCA) into the deployment process and architected the RBAC controls for GitLab CI/CD pipelines to securely manage our entire multi-account AWS Organization.
 - **Observability:** Architected centralized log collection systems, providing unprecedented levels of observability across all operational layers of the company.
 - **Technical Leadership:** Acted as the platform team's Scrum Master and held weekly lectures for developers on defensive coding, infrastructure optimization, and high-performance architecture.
 
@@ -106,11 +108,14 @@ I'm a principal infrastructure engineer, security developer, and DevSecOps enthu
 
 **Achievements**:
 
+- **Hybrid Cloud Infrastructure (AWS & IaC):** Spearheaded the initiative to integrate NASA's on-premise networking with AWS. Engineered the cloud equivalents to NASA's stringent on-prem security standards, fully codifying the AWS infrastructure using Terraform.
 - **Security Architecture:** Designed and built a high-performance DDoS mitigation tool capable of protecting NASA's network from state-sponsored attacks.
-- **Security Operations:** Architected a high-performance distributed ELK cluster to ingest and analyze network logs across our hybrid cloud / on-prem network. Designed and implemented a multitude of netflow/packet capture/firewall log analysis tools to give the company deeper insight to AWS, on-prem, and container network traffic.
-- Performed security analysis for numerous black box solutions to identify how safe the tools were to use and how we could keep them locked down when risks were identified.
-- Led the efforts for analyzing which container security analysis tools were worthy of NASA's security standards.
-- Taught developers about the principles of defensive coding and how to build highly resilient architectures that met NASA's reliability and security standards.
+- **Vendor Risk Management:** Engineered automated security scanners that enabled third-party vendors to harden their own systems to meet the strict compliance requirements necessary to connect to our network.
+- **Container Architecture & Security:** Led the effort to migrate numerous legacy VM deployments to modern container-based solutions, and strictly enforced container vulnerability scanning across all organizations within the NASA AWS cloud environment.
+- **Cloud Security Engineering:** Authored and adopted various specialized cloud security tools to help NASA actively harden their AWS accounts against emerging threats.
+- **Black Box Security Analysis:** Performed deep security analysis on numerous black box solutions to evaluate their safety and implemented isolation strategies to keep them locked down when risks were identified.
+- **Security Operations & Observability:** Architected a high-performance distributed ELK cluster to ingest and analyze network logs across our hybrid cloud / on-prem network. Designed and implemented a multitude of netflow/packet capture/firewall log analysis tools to give the company deeper insight to AWS, on-prem, and container network traffic.
+- **Technical Leadership:** Taught developers about the principles of defensive coding and how to build highly resilient architectures that met NASA's reliability and security standards.
 
 ---
 
